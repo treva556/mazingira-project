@@ -1,7 +1,7 @@
 import React from 'react'
 
 
-function Navbar() {
+function organizationsPage() {
 
   return (
     <div className="App">
@@ -9,4 +9,4 @@ function Navbar() {
   )
 }
 
-export default Navbar
+export default organizationsPage
